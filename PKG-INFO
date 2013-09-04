@@ -1,12 +1,11 @@
 Metadata-Version: 1.0
 Name: wadofstuff-django-serializers
-Version: 1.1.1
+Version: 1.2.0
 Summary: Extended serializers for Django.
 Home-page: http://code.google.com/p/wadofstuff/
 Author: Matthew Flanagan
 Author-email: mattimustang@gmail.com
 License: UNKNOWN
-Download-URL: http://wadofstuff.googlecode.com/files/wadofstuff-django-serializers-1.1.0.tar.gz
 Description: Extended Django Serializer Module
         =================================
 
